@@ -39,7 +39,7 @@
     <h2 align="right">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhyb2YwOHJpOWJuandhdHRxdTdtcnNlZjdvdHJ5Nnh6Y3d1Zmk2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MXwSftWjLQCLCltHL3/giphy.gif" align="left" width="373.5px" height="208.5px">
     <br>
-  <a href="https://www.linkedin.com/in/moschoula-maria-isari-52b354356">
+  <a href="https://www.linkedin.com/in/moschoula-maria-isari">
   <img align="right" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </div>     
